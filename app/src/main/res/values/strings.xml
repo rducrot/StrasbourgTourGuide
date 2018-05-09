@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Strasbourg Tour Guide</string>
+
+    <string name="monuments">Monuments</string>
+    <string name="parks">Parks</string>
+    <string name="restaurants">Restos</string>
+    <string name="concerts">Concerts</string>
+
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+
+    <string name="monuments_cathedrale">Cathédrale de Strasbourg</string>
+    <string name="monuments_palais_rohan">Palais Rohan</string>
+    <string name="monuments_palais_rhin">Palais du Rhin</string>
+    <string name="monuments_musee_art_moderne">Musée d\'Art Moderne et Contemporain</string>
+    <string name="monuments_eglise_saint_thomas">Église Saint Thomas</string>
+    <string name="monuments_observatoire">Observatoire</string>
+    <string name="monuments_barrage_vauban">Barrage Vauban</string>
+    <string name="monuments_gare">Gare de Strasbourg</string>
+    <string name="monuments_pont_europe">Pont de l\'Europe</string>
+
+    <string name="parks_orangerie">Parc de l\'Orangerie</string>
+    <string name="parks_republique">Place de la République</string>
+    <string name="parks_etoile">Parc de l\'Étoile</string>
+    <string name="parks_citadelle">Parc de la Citadelle</string>
+    <string name="parks_heyritz">Parc Heyritz</string>
+    <string name="parks_jardin_botanique">Jardin botanique</string>
+    <string name="parks_poterie">Poterie</string>
+    <string name="parks_jardin_deux_rives">Jardin des Deux Rives</string>
+    <string name="parks_du_rhin">Parc du Rhin</string>
+
+    <string name="restaurants_gavroche">Gavroche</string>
+    <string name="restaurants_la_coccinelle">La Coccinelle</string>
+    <string name="restaurants_au_crocodile">Au Crocodile</string>
+    <string name="restaurants_la_cambuse">La Cambuse</string>
+    <string name="restaurants_le_schnockeloch">Le Schnockeloch</string>
+    <string name="restaurants_le_baeckeoffe">Le Baeckeoffe d\'Alsace</string>
+    <string name="restaurants_chez_yvonne">Chez Yvonne</string>
+    <string name="restaurants_le_tire_bouchon">Le Tire-Bouchon</string>
+    <string name="restaurants_au_dauphin">Au Dauphin</string>
+    
+    <string name="concerts_zenith">Zénith de Strasbourg</string>
+    <string name="concerts_laiterie">La Laiterie</string>
+    <string name="concerts_molodoi">Le Molodoï</string>
+    <string name="concerts_au_camionneur">Au Camionneur</string>
+    <string name="concerts_mudd_club">Mudd Club</string>
+    <string name="concerts_palais_des_fetes">Palais des Fêtes</string>
+    <string name="concerts_elastic_bar">L\'Elastic Bar</string>
+    <string name="concerts_maison_bleue">La Maison Bleue</string>
+    <string name="concerts_opera_national_rhin">Opéra National du Rhin</string>
+
+    <string name="place_address">Somewhere in the city\n67000 STRASBOURG\nFRANCE</string>
+
+    <string name="monuments_description">monument</string>
+    <string name="parks_description">park</string>
+    <string name="restaurants_description">restaurant</string>
+    <string name="concerts_description">concert</string>
+
+</resources>

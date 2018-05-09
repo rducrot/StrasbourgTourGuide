@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_size"
+    android:background="@color/itemBackground"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/place_image"
+        android:layout_width="@dimen/list_size"
+        android:layout_height="@dimen/list_size"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/monuments_barrage_vauban"/>
+
+    <TextView
+        android:id="@+id/place_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:layout_marginLeft="@dimen/main_margin"
+        tools:text="@string/monuments_cathedrale"/>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin -->
+    <dimen name="main_margin">16dp</dimen>
+    <dimen name="smaller_margin">8dp</dimen>
+    <dimen name="bigger_margin">24dp</dimen>
+
+    <dimen name="list_size">88dp</dimen>
+    <dimen name="place_details_image_size">200dp</dimen>
+
+    <dimen name="place_details_name_size">34sp</dimen>
+</resources>
